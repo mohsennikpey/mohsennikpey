@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Mohsen Nikpey 👋
+Aspiring Front-End Developer
+I'm learning web development and building responsive, modern websites with HTML, CSS, and JavaScript.
+🌱 Currently improving my front-end development skills
+💻 Building personal projects and practical web applications
+🎯 Working toward becoming a professional web developer
+🌐 Portfolio: View My Website (https://mohsennikpey.github.io/mani-portfolio/)
+Skills
+HTML5
+CSS3
+JavaScript
+Featured Project
+Personal Portfolio Website
+A dark, modern, responsive portfolio website built with HTML, CSS, and JavaScript.
+View the Live Website (https://mohsennikpey.github.io/mani-portfolio/) ·
+View Repository (https://github.com/mohsennikpey/mani-portfolio)
 
-<!--
-**mohsennikpey/mohsennikpey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm learning by building, improving, and practicing every day.
